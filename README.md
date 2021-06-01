@@ -1,4 +1,4 @@
-# cellphone-activity-r-project
+# cellphone-activity-for-work-r-project
 
 This is my project for the "Statistics and Empirical Methods" course at FMI, Sofia University, written in R.
 Here you can find:
