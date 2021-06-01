@@ -1,0 +1,26 @@
+gender,ageRange,hoursOfPhoneActivity,PhoneDependencyInPerc,mostUsedVideoCallApp,appForMessagingColleagues,phoneCallsForWorkDaily,accessingAppsFromPhone
+Female,18-24,5,50,None,"Slack, Messenger",1,Yes
+Male,18-24,6,80,None,"Slack, Discord",0,Yes
+Female,24-30,3,30,Google Meet,Google Chat,0,Yes
+Female,18-24,5,70,"Slack, Teams","Slack, Messenger",2,Yes
+Female,24-30,4,60,"Slack, Zoom",Slack,0,Yes
+Male,30-36,3,60,"Zoom, Teams, Other",Discord,2,No
+Male,24-30,4,50,Slack,"Slack, Discord",2,Yes
+Female,18-24,3,40,None,Slack,0,No
+Male,18-24,4,50,"Slack, Zoom, Google Meet","Slack, Google Chat",2,Yes
+Female,24-30,2,20,None,Messenger,1,Yes
+Male,18-24,5,50,"Slack, Google Meet",Slack,0,No
+Male,30-36,3,25,None,Other,5,No
+Female,30-36,4,40,Google Meet,Slack,2,Yes
+Male,18-24,5,60,"Slack, Google Meet","Slack, Discord",1,No
+Female,18-24,4,50,Google Meet,"Google Chat, Messenger",0,Yes
+Female,18-24,5,60,"Zoom, Google Meet",Messenger,0,Yes
+Male,24-30,4,40,Slack,Slack,1,No
+Female,24-30,4,50,"Slack, Teams",Slack,3,No
+Male,30-36,4,50,Skype,"Skype, Messenger",2,Yes
+Female,18-24,5,60,"Slack, Teams","Slack, Messenger",1,Yes
+Male,24-30,3,30,"Slack, Zoom, Google Meet, Teams",Slack,0,Yes
+Male,18-24,6,75,"Zoom, Teams",Messenger,0,Yes
+Female,30-36,4,50,None,Slack,5,No
+Female,24-30,5,40,"Teams, Google Meet","Google Chat, Messenger",0,Yes
+Female,24-30,3,30,Slack,Slack,1,No
